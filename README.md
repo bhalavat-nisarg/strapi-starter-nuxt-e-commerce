@@ -1,3 +1,7 @@
+> [!CAUTION]
+> **This repository was archived on 2026-04-26.**
+> This project is no longer actively maintained. No new changes will be accepted and dependencies will not be updated.
+
 **:no_entry: Deprecated**
 
 This repository is no longer maintained and only works for Strapi v3. To find the newest Strapi v4 starters, check out the [starters-and-templates monorepo](https://github.com/strapi/starters-and-templates/).
